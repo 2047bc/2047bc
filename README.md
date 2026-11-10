@@ -17,7 +17,7 @@
 
 <img src="Menger.png" width="225">
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2047bc
+## 2047bc
 ### What happened to humanity?
 
 ---
@@ -190,7 +190,7 @@ You are in the middle of nowhere because the map was redrawn while you were busy
 
 <img src="Base-mesh-Text.gif" width="225">
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2047bc
+## 2047bc
 
 ---
 
