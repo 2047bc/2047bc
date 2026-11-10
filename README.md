@@ -190,7 +190,7 @@ You are in the middle of nowhere because the map was redrawn while you were busy
 
 <img src="Base-mesh-Text.gif" width="225">
 
-## A&nbsp;R&nbsp;T&nbsp;E&nbsp;F&nbsp;A&nbsp;C&nbsp;T—2&nbsp;0&nbsp;4&nbsp;7
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2047bc
 
 ---
 
